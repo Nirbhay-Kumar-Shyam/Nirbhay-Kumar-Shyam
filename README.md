@@ -1,15 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m Nirbhay Kumar<br>
+🌱 I’m currently pursuing Computer science and Engineering at IIT Kharagpur<br>
+👯 I’m looking to collaborate on SDE Projects<br>
+📫 You can reach me via email-Id nirbhay.jnvj@gmail.com
 
-**Nirbhay-Kumar-Shyam/Nirbhay-Kumar-Shyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...<br>
-🌱 I’m currently learning ...<br>
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
